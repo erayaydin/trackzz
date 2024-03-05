@@ -10,7 +10,10 @@
     "react-native": "^0.73.5"
   },
   "devDependencies": {
-    "@react-native/metro-config": "^0.72.12"
+    "@react-native/metro-config": "^0.72.12",
+    "@react-native/typescript-config": "^0.74.0",
+    "@types/react": "^18.2.63",
+    "typescript": "^5.3.3"
   },
   "engines": {
     "node": ">=18"
