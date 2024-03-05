@@ -1,4 +1,4 @@
 import React from 'react';
-import {Text} from "react-native";
+import {Text} from 'react-native';
 
-export default () => <Text>Hello React!</Text>
+export default () => <Text>Hello React!</Text>;
