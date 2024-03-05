@@ -2,6 +2,16 @@
   "name": "trackkz",
   "version": "0.1.0",
   "license": "MIT",
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.73.5"
+  },
+  "devDependencies": {
+    "@react-native/metro-config": "^0.72.12"
+  },
   "engines": {
     "node": ">=18"
   }

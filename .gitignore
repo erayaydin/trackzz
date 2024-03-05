@@ -1,5 +1,19 @@
 ### Node ###
 node_modules/
 
+### Android ###
+android/app/build/
+android/.gradle
+*.keystore
+!debug.keystore
+
+### iOS ###
+ios/build
+ios/Pods
+ios/.xcode.env.local
+
+### Ruby ###
+vendor/bundle
+
 ### IDEA ###
 .idea/
