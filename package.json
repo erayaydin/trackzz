@@ -1,0 +1,8 @@
+{
+  "name": "trackkz",
+  "version": "0.1.0",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
